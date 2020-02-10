@@ -1,6 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-
+//test git
 import routes from "./routes";
 
 Vue.use(VueRouter);
